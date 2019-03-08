@@ -1,0 +1,5 @@
+运行方法：
+
+ComputerStore类为主类，修改ComputerStore类中三个Computer对象，给与不同的构造方法的参数，就可以组装不同的电脑。
+
+在main方法中，使用computer对象的show方法来进行展示，显示计算机名称、总价格、各配件参数。使用computer对象的work方法运行计算机。
